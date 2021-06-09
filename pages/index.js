@@ -25,7 +25,6 @@ export default function Home() {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
       <main className={styles.main}>
         <h1 className={styles.title}>My Next.js Amplify app</h1>
         <div className={styles.container}>
