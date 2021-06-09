@@ -1,5 +1,5 @@
 import "../styles/globals.css";
-import config from "../src/aws-exports";
+import config from "../aws-exports";
 import Amplify from "aws-amplify";
 
 Amplify.configure({
